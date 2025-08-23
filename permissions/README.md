@@ -1,0 +1,2 @@
+#!/bin/bashs 
+su betty
